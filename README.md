@@ -56,10 +56,9 @@ dge&logo=openjdk&logoColor=white)
 �
 �
  Inteligência Artificial & Ciência de Dados 
-![Python](https://img.shields.io/badge/pandas-%23150458.svg?style=for-th
-e-badge&logo=pandas&logoColor=white) 
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg
-?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+ 
+ ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000?style=for-the-badge&logo=scikitlearn&logoColor=007BFF)
+ 	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  --- 
  
 ### 
