@@ -11,13 +11,7 @@
 
 
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=henriquepedro3024@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-
-
-henriquepedro3023@gmail.com
+[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](https://mail.google.com/mail/?view=cm&fs=1&to=henriquepedro3023@gmail.com)
 
 
 
