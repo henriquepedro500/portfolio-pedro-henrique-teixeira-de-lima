@@ -7,7 +7,7 @@
 �
  Contato & Redes Sociais 
  
-LinkedIn:(https://www.linkedin.com/in/henrique-pedro-3bb948433?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-pedro-3bb948433?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 E-mail:(henriquepedro3025@gmail.com)
 
