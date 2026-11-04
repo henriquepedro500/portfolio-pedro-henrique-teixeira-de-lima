@@ -16,7 +16,7 @@
 
 
 
-Currículo:(https://docs.google.com/document/d/1E9hiMimbMc8Tf3mIVl0wvnk1d9cesWxM/edit?usp=drivesdk&ouid=113547142602646988317&rtpof=true&sd=true)
+[![Currículo](https://img.shields.io/badge/-Currículo-000?style=for-the-badge&logo=adobeacrobatreader&logoColor=007BFF)](https://docs.google.com/document/d/1E9hiMimbMc8Tf3mIVl0wvnk1d9cesWxM/edit?usp=drivesdk&ouid=113547142602646988317&rtpof=true&sd=true)
 
  --- 
  
