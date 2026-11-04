@@ -49,8 +49,7 @@ dge&logo=openjdk&logoColor=white)
 �
 �
  Banco de Dados 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-t
-he-badge&logo=postgresql&logoColor=white) 
+	![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
  
 #### 
 �
