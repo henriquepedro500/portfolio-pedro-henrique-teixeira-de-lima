@@ -6,14 +6,13 @@
 �
 �
  Contato & Redes Sociais 
-[![LinkedIn][(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the
-badge&logo=linkedin&logoColor=white)] ](https://www.linkedin.com/in/henrique-pedro-3bb948433?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+ 
+LinkedIn:(https://www.linkedin.com/in/henrique-pedro-3bb948433?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-[![E-mail](henriquepedro3025@gmail.com)
-&logo=gmail&logoColor=white)](mailto:seu-email-profissional@email.com) 
+E-mail:(henriquepedro3025@gmail.com)
 
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-th
-e-badge&logo=read-the-docs&logoColor=white)][(LINK_DO_PDF_OU_SITE) ](https://docs.google.com/document/d/1E9hiMimbMc8Tf3mIVl0wvnk1d9cesWxM/edit?usp=drivesdk&ouid=113547142602646988317&rtpof=true&sd=true)
+
+Currículo:(https://docs.google.com/document/d/1E9hiMimbMc8Tf3mIVl0wvnk1d9cesWxM/edit?usp=drivesdk&ouid=113547142602646988317&rtpof=true&sd=true)
 
  --- 
  
@@ -24,7 +23,7 @@ e-badge&logo=read-the-docs&logoColor=white)][(LINK_DO_PDF_OU_SITE) ](https://doc
 Atualmente cursando o 2º período de Analise e Desenvolvimento de Sistemas  na Universidade Cidade de São Paulo-Unicid. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Cibersegurança/Back-end
  
 * **Habilidades Técnicas:** Python, Java, 
-* **Habilidades Socioemocionais:** Trabalho em equipe, boa comunicação e organização. 
+* **Habilidades Socioemocionais:** Trabalho em equipe, Boa comunicação e organização. 
 * **Experiência/Projetos Relevantes:** Nenhuma por enquanto
  --- 
  
