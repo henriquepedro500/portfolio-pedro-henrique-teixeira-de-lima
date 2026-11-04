@@ -9,7 +9,11 @@
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-pedro-3bb948433?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-E-mail:(henriquepedro3025@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:SEUEMAIL)
+
+henriquepedro3023@gmail.com
+
+
 
 
 Currículo:(https://docs.google.com/document/d/1E9hiMimbMc8Tf3mIVl0wvnk1d9cesWxM/edit?usp=drivesdk&ouid=113547142602646988317&rtpof=true&sd=true)
