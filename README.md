@@ -10,7 +10,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-pedro-3bb948433?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:henriquepedro3024@gmail.com)
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=henriquepedro3024@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
 
 
 henriquepedro3023@gmail.com
