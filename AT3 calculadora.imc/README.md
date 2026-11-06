@@ -44,7 +44,7 @@ O código gerado com auxílio da inteligência artificial foi revisado, testado 
 
 **Link para acessar a Calculadora de IMC:**
 
-[Adicionar link da aplicação publicada no GitHub Pages]
+file:///C:/Users/pedro/Downloads/calculadora-imc/calculadora-imc.html
 
 ## 🔙 Voltar ao Início
 
