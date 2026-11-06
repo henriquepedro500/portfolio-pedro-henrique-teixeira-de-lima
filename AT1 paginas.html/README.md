@@ -56,10 +56,6 @@ O uso da inteligência artificial teve como finalidade auxiliar o processo de ap
 
 https://henriquepedro500.github.io/meu-site/
 
-## 👨‍💻 Desenvolvedores
-
-- Pedro Henrique
-- João Pedro
 
 **Disciplina:** Desenvolvimento Front-End Para Web (2026.2).
 
