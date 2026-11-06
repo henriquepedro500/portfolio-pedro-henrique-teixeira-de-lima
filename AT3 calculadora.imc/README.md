@@ -43,8 +43,8 @@ O código gerado com auxílio da inteligência artificial foi revisado, testado 
 ## 🚀 Implantar o Projeto
 
 **Link para acessar a Calculadora de IMC:**
-
-file:///C:/Users/pedro/Downloads/calculadora-imc/calculadora-imc.html
+[
+file:///C:/Users/pedro/Downloads/calculadora-imc/calculadora-imc.html](https://henriquepedro500.github.io/Calculadora-IMC/)
 
 ## 🔙 Voltar ao Início
 
