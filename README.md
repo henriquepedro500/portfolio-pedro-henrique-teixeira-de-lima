@@ -59,7 +59,7 @@ Atualmente, curso o 2º período de **Análise e Desenvolvimento de Sistemas** n
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Nome do projeto** | Documento de requisitos, modelagem ER e scripts SQL. |  [Ver Projeto](https://docs.google.com/document/d/1rwJgNc_7gDU1CWTghmf8lOBPG1UgjO4d/edit#heading=h.vf8qtgq488oq) |
+| **Academia Vitalis Fitness** | Documento de requisitos, modelagem ER e scripts SQL. |  [Ver Projeto](https://docs.google.com/document/d/1rwJgNc_7gDU1CWTghmf8lOBPG1UgjO4d/edit#heading=h.vf8qtgq488oq) |
 
 ---
 
