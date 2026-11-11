@@ -1,4 +1,4 @@
-📌## Deploy do Projeto
+## Deploy do Projeto📌
 
 O deploy do projeto **“E SE PARASSE POR 24H?”** foi realizado utilizando o **GitHub Pages**, uma ferramenta gratuita que permite hospedar sites estáticos desenvolvidos com HTML, CSS e JavaScript.
 
