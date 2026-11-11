@@ -51,7 +51,7 @@ Atualmente, curso o 2º período de **Análise e Desenvolvimento de Sistemas** n
 | :--- | :--- | :---: |
 | **Site Básico em HTML5** | Criação de site básico com 5 páginas em HTML5. | [Ver Projeto](https://henriquepedro500.github.io/meu-site/) |
 | **Deploy de Site** | Publicação de site no GitHub Pages. | [Ver Projeto](./AT2-Deploy-de-Site/) |
-| **Calculadora de IMC** | Desenvolvimento de uma calculadora de IMC com JavaScript. | [Ver Projeto](/https://henriquepedro500.github.io/Calculadora-IMC/) |
+| **Calculadora de IMC** | Desenvolvimento de uma calculadora de IMC com JavaScript. | [Ver Projeto](https://henriquepedro500.github.io/Calculadora-IMC/) |
 | **Site com Bootstrap** | Aplicação do Bootstrap para o desenvolvimento de um site com múltiplas páginas. | [Ver Projeto](/https://henriquepedro500.github.io/Portal-Games/) |
 | **Desenvolvimento com IA** | Desenvolvimento Front-End com auxílio de IA. | [Ver Projeto](https://henriquepedro500.github.io/Margem-Humana/) |
 
