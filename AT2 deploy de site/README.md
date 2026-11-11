@@ -1,63 +1,33 @@
-# 
-�
-�
- Nome do Projeto 
- 
-## 
-�
-�
- Descrição do Projeto 
-Este projeto consiste em um motor de recomendação inteligente que 
-utiliza técnicas de filtragem colaborativa e baseada em conteúdo. O 
-objetivo principal é mitigar a "paralisia de escolha", oferecendo aos 
-usuários sugestões personalizadas com base em seu histórico de 
-visualização e preferências de gênero. 
- 
-Desenvolvido como parte das disciplinas de **Desenvolvimento Front-End 
-Para Web (2026.2)**, o sistema processa grandes volumes de dados 
-(datasets de filmes e avaliações) para identificar padrões de 
-comportamento e similaridades entre títulos, utilizando algoritmos de 
-aprendizado de máquina para prever a nota que um usuário daria a um 
-filme ainda não assistido. 
- 
-## 
-�
-�
- Tecnologias Utilizadas 
-* **Linguagem:** HTML5, CSS e JavaScript 
-* **Bibliotecas:** Bootstrap 
-* **Ferramentas:** VSCode 
-* **Modelo de IA:** Gemini 
- 
-## 
-�
-�
- Resultados e Aprendizados 
-O projeto alcançou resultados sólidos em ambiente de teste, demonstrando 
-a eficácia do modelo híbrido. 
-* **O modelo atingiu 92% de acurácia** nos testes de validação. 
-* **Redução de Ruído:** Aprendi a aplicar técnicas de limpeza e 
-normalização de dados para melhorar a performance dos algoritmos. 
-* **Visualização de Clusters:** Implementei gráficos que mostram como o 
-sistema agrupa filmes por afinidade. 
- 
-## 
-�
-�
- Declaração de Uso Ético da IA 
-Este projeto utilizou inteligência artificial ([Nome do Modelo, ex: 
-ChatGPT / GitHub Copilot]) estritamente como ferramenta de suporte 
-tecnológico para [Finalidade, ex: estruturação inicial do HTML e 
-depuração de funções em JavaScript]. Todo o código gerado foi revisado, 
-testado e compreendido por mim, garantindo a minha responsabilidade 
-integral sobre a autoria final, integridade e funcionamento da 
-aplicação.  
- 
-## 
-�
-�
- Deploy do projeto 
- 
-[Clique para acessar](https://seu-usuario.github.io/xxxxxxxxx/) 
- --- 
-[Voltar ao início](https://github.com/seu-usuario/portfolio-usuario)
+## Deploy do Projeto
+
+O deploy do projeto **“E SE PARASSE POR 24H?”** foi realizado utilizando o **GitHub Pages**, uma ferramenta gratuita que permite hospedar sites estáticos desenvolvidos com HTML, CSS e JavaScript.
+
+Primeiramente, os arquivos do projeto foram organizados no Visual Studio Code (VS Code), incluindo o arquivo principal `index.html`, os arquivos de estilização CSS, os scripts JavaScript e os demais recursos utilizados no site.
+
+Em seguida, o projeto foi enviado para um repositório no GitHub, permitindo o armazenamento e o gerenciamento dos arquivos.
+
+Após o envio, foi realizada a configuração do **GitHub Pages**, por meio da opção **Settings > Pages**, selecionando a branch de publicação e a pasta que contém os arquivos do site.
+
+Com a publicação concluída, o GitHub Pages disponibilizou um endereço público, permitindo que o projeto fosse acessado diretamente pelo navegador, sem a necessidade de instalar programas.
+
+O deploy também permitiu testar o funcionamento do site em ambiente online, verificando a navegação, a apresentação do conteúdo e os recursos interativos.
+
+**Link do projeto publicado:**
+
+[Clique para acessar](## Deploy do Projeto
+
+O deploy do projeto **“E SE PARASSE POR 24H?”** foi realizado utilizando o **GitHub Pages**, uma ferramenta gratuita que permite hospedar sites estáticos desenvolvidos com HTML, CSS e JavaScript.
+
+Primeiramente, os arquivos do projeto foram organizados no Visual Studio Code (VS Code), incluindo o arquivo principal `index.html`, os arquivos de estilização CSS, os scripts JavaScript e os demais recursos utilizados no site.
+
+Em seguida, o projeto foi enviado para um repositório no GitHub, permitindo o armazenamento e o gerenciamento dos arquivos.
+
+Após o envio, foi realizada a configuração do **GitHub Pages**, por meio da opção **Settings > Pages**, selecionando a branch de publicação e a pasta que contém os arquivos do site.
+
+Com a publicação concluída, o GitHub Pages disponibilizou um endereço público, permitindo que o projeto fosse acessado diretamente pelo navegador, sem a necessidade de instalar programas.
+
+O deploy também permitiu testar o funcionamento do site em ambiente online, verificando a navegação, a apresentação do conteúdo e os recursos interativos.
+
+**Link do projeto publicado:**
+
+[Clique para acessar](https://henriquepedro500.github.io/meu-site/)
